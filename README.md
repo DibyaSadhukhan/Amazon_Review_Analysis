@@ -6,4 +6,4 @@ And the data required for the page.
 Laptop analyis.ipynb is the amazon scraping script
   it scrapes all the available products from amazon.in  
 Reveiw analyisis works with the reveiw dataset
-And product details generates the csv files required for the page
+And product details generates the csv files required for the page.
